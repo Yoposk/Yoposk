@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Yoposk but my real name is Oscar.
+- 👋 Hi, I’m @Yoposk but my real name is Oscar Severiche.
 - 👀 I’m interested in Data Science, Machine learning, Science and videogames in general.
-- 🌱 I’m a Software analysis and development technician, currently learning Python to make IA like ChatGPT.
--       also I'm a studying Phisics on Universidad de Antioquia (UdeA)
+- 🌱 I’m a Software analysis and development technician, currently learning Python.
+- also I'm a studying Phisics on Universidad de Antioquia (UdeA)
 - 💞️ I’m looking to collaborate on anything, if you think that I can collaborate with something feel free to talk to me
 - 📫 My email: yoposk.programa@gmail.com or oscar.severiche@udea.edu.co
 
